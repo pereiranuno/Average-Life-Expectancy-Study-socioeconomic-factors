@@ -48,11 +48,8 @@ Certifica-te de que tens os seguintes pacotes instalados para executar o noteboo
    ```bash
    git clone https://github.com/teu-usuario/Average-Life-Expectancy-Study-socioeconomic-factors.git
    ```
-2. **Navega até a pasta do projeto**:
-   ```bash
-   cd life-expectancy-analysis
-   ```
-3. **Abre o Jupyter Notebook**:
+
+2. **Abre o Jupyter Notebook**:
    ```bash
    jupyter notebook Life_Expectancy_and_Socioeconomic_Factors.ipynb
    ```
