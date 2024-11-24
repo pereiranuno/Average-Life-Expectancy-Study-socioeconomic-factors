@@ -2,10 +2,11 @@
 # Life Expectancy and Socioeconomic Factors
 
 ## Introdução
-Este projeto explora os fatores socioeconómicos e a sua influência em fatores de saúde em diferentes contextos de países.
+Este projeto explora os fatores socioeconómicos e a sua influência em variáveis de saúde em diferentes contextos de países.
 
 ## Objetivo
-Este notebook Python realiza uma análise dos fatores socioeconômicos que afetam a esperança média de vida, utilizando um conjunto de dados público. O objetivo é identificar relações importantes e desenvolver insights sobre como diferentes variáveis, como PIB e escolaridade, podem afetar a saúde da população.
+Este notebook Python realiza uma análise dos fatores socioeconómicos que podem afetar aspetos de saúde, como, por exemplo, a esperança média de vida, utilizando um conjunto de dados público. O objetivo é identificar relações importantes e desenvolver insights sobre como diferentes variáveis, como o PIB e a escolaridade, podem influenciar a saúde da população.
+
 
 ## Conteúdo
 
@@ -23,13 +24,13 @@ Este notebook Python realiza uma análise dos fatores socioeconômicos que afeta
    Nesta secção é realizada a ingestão de um ficheiro CSV com o conteúdo de análise do projeto, carregado para um DataFrame utilizando a biblioteca Pandas.
 
 3. **Pré-processamento dos Dados**:  
-   Nesta secção, os dados são limpos e preparados para análise. Inclui tratamento de valores ausentes e normalização de variáveis.
+   Nesta secção, os dados são limpos e preparados para análise. Inclui tratamento de valores ausentes.
 
 4. **Análise Exploratória**:  
-   São gerados gráficos e estatísticas descritivas para explorar as relações entre variáveis socioeconômicas e expectativa de vida.
+   São gerados gráficos e estatísticas descritivas para explorar as relações entre variáveis socioeconômicas e variaveis de saude.
 
 5. **Conclusões**:  
-   Principais insights são apresentados, destacando como certos fatores como renda e educação estão relacionados à expectativa de vida.
+   Principais insights são apresentados, destacando como certos fatores como renda e educação estão relacionados à esperança média de vida.
 
 ## Requisitos
 
