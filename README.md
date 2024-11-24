@@ -24,7 +24,7 @@ Este notebook Python realiza uma análise dos fatores socioeconómicos que podem
    Nesta secção é realizada a ingestão de um ficheiro CSV com o conteúdo de análise do projeto, carregado para um DataFrame utilizando a biblioteca Pandas.
 
 3. **Pré-processamento dos Dados**:  
-   Nesta secção, os dados são limpos e preparados para análise. Inclui tratamento de valores ausentes.
+   Nesta secção, os dados são tratados e preparados para análise. Incluindo tratamento de valores ausentes.
 
 4. **Análise Exploratória**:  
    São gerados gráficos e estatísticas descritivas para explorar as relações entre variáveis socioeconômicas e variaveis de saude.
@@ -41,6 +41,7 @@ Certifica-te de que tens os seguintes pacotes instalados para executar o noteboo
 - NumPy
 - Matplotlib
 - Seaborn
+- Stats from Scipy
 
 
 ## Como Utilizar
@@ -58,7 +59,7 @@ Certifica-te de que tens os seguintes pacotes instalados para executar o noteboo
 ## Estrutura do Repositório
 
 - `Life_Expectancy_and_Socioeconomic_Factors.ipynb`: O ficheiro principal contendo o código Python e a análise.
-- `data/`: Pasta que contém o(s) ficheiro(s) de dados necessários para o notebook.
+- `content/`: Pasta que contém o(s) ficheiro(s) de dados necessários para o notebook.
 
 ## Contribuições
 
